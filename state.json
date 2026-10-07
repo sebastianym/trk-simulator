@@ -52,17 +52,34 @@
     "S2-14": "TRK-29",
     "S2-15": "TRK-30"
   },
-  "prs": {},
+  "prs": {
+    "S2-08": {
+      "repo": "backend",
+      "number": 1,
+      "branch": "feature/TRK-23-diego",
+      "title": "TRK-23: Webhooks de la pasarela de pagos"
+    },
+    "S1-15": {
+      "repo": "backend",
+      "number": 2,
+      "branch": "feature/TRK-15-felipe",
+      "title": "TRK-15: Servicio de inventario"
+    }
+  },
   "commit_counts": {
-    "S1-10": 4,
-    "S1-15": 2,
-    "S2-01": 1,
-    "S2-08": 1
+    "S1-10": 5,
+    "S1-15": 3,
+    "S2-01": 2,
+    "S2-08": 2,
+    "S2-05": 1,
+    "S2-06": 1
   },
   "days_done": [
-    1
+    1,
+    2
   ],
   "progress": {
-    "1": 9
+    "1": 9,
+    "2": 10
   }
 }
