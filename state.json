@@ -50,7 +50,8 @@
     "S2-12": "TRK-27",
     "S2-13": "TRK-28",
     "S2-14": "TRK-29",
-    "S2-15": "TRK-30"
+    "S2-15": "TRK-30",
+    "X1": "TRK-31"
   },
   "prs": {
     "S2-08": {
@@ -64,22 +65,51 @@
       "number": 2,
       "branch": "feature/TRK-15-felipe",
       "title": "TRK-15: Servicio de inventario"
+    },
+    "X1": {
+      "repo": "backend",
+      "number": 3,
+      "branch": "feature/TRK-31-ana",
+      "title": "TRK-31: Pedidos duplicados al hacer doble clic en Pagar"
+    },
+    "S2-01": {
+      "repo": "backend",
+      "number": 4,
+      "branch": "feature/TRK-16-ana",
+      "title": "TRK-16: API de creación de pedidos"
+    },
+    "S2-05": {
+      "repo": "backend",
+      "number": 5,
+      "branch": "feature/TRK-20-bruno",
+      "title": "TRK-20: Timeout en consulta del catálogo"
+    },
+    "S1-10": {
+      "repo": "frontend",
+      "number": 1,
+      "branch": "feature/TRK-10-elena",
+      "title": "TRK-10: Carrito de compras (interfaz)"
     }
   },
   "commit_counts": {
     "S1-10": 5,
     "S1-15": 3,
-    "S2-01": 2,
+    "S2-01": 3,
     "S2-08": 2,
     "S2-05": 1,
-    "S2-06": 1
+    "S2-06": 1,
+    "X1": 1,
+    "S2-09": 1,
+    "S2-14": 1
   },
   "days_done": [
     1,
-    2
+    2,
+    3
   ],
   "progress": {
     "1": 9,
-    "2": 10
+    "2": 10,
+    "3": 19
   }
 }
