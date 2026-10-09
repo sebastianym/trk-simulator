@@ -89,6 +89,18 @@
       "number": 1,
       "branch": "feature/TRK-10-elena",
       "title": "TRK-10: Carrito de compras (interfaz)"
+    },
+    "header": {
+      "repo": "frontend",
+      "number": 2,
+      "branch": "feature/rediseno-header",
+      "title": "Rediseño del header"
+    },
+    "S2-09": {
+      "repo": "backend",
+      "number": 6,
+      "branch": "feature/TRK-24-diego",
+      "title": "TRK-24: Reintentos automáticos de pagos fallidos"
     }
   },
   "commit_counts": {
@@ -97,19 +109,22 @@
     "S2-01": 3,
     "S2-08": 2,
     "S2-05": 1,
-    "S2-06": 1,
+    "S2-06": 2,
     "X1": 1,
-    "S2-09": 1,
-    "S2-14": 1
+    "S2-09": 2,
+    "S2-14": 1,
+    "S2-02": 1
   },
   "days_done": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "progress": {
     "1": 9,
     "2": 10,
-    "3": 19
+    "3": 19,
+    "4": 18
   }
 }
