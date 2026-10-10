@@ -101,6 +101,18 @@
       "number": 6,
       "branch": "feature/TRK-24-diego",
       "title": "TRK-24: Reintentos automáticos de pagos fallidos"
+    },
+    "S2-02": {
+      "repo": "backend",
+      "number": 7,
+      "branch": "feature/TRK-17-ana",
+      "title": "TRK-17: Validación de stock al confirmar pedido"
+    },
+    "S2-06": {
+      "repo": "frontend",
+      "number": 3,
+      "branch": "feature/TRK-21-camila",
+      "title": "TRK-21: Flujo de checkout (interfaz)"
     }
   },
   "commit_counts": {
@@ -113,18 +125,21 @@
     "X1": 1,
     "S2-09": 2,
     "S2-14": 1,
-    "S2-02": 1
+    "S2-02": 2,
+    "S2-11": 1
   },
   "days_done": [
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "progress": {
     "1": 9,
     "2": 10,
     "3": 19,
-    "4": 18
+    "4": 18,
+    "5": 12
   }
 }
