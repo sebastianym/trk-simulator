@@ -51,7 +51,8 @@
     "S2-13": "TRK-28",
     "S2-14": "TRK-29",
     "S2-15": "TRK-30",
-    "X1": "TRK-31"
+    "X1": "TRK-31",
+    "X2": "TRK-32"
   },
   "prs": {
     "S2-08": {
@@ -113,6 +114,18 @@
       "number": 3,
       "branch": "feature/TRK-21-camila",
       "title": "TRK-21: Flujo de checkout (interfaz)"
+    },
+    "S2-02-fix": {
+      "repo": "backend",
+      "number": 8,
+      "branch": "fix/TRK-17-ana",
+      "title": "TRK-17: Validación de stock al confirmar pedido"
+    },
+    "S2-10": {
+      "repo": "backend",
+      "number": 9,
+      "branch": "feature/TRK-25-diego",
+      "title": "TRK-25: Logs estructurados en el servicio de pagos"
     }
   },
   "commit_counts": {
@@ -121,25 +134,28 @@
     "S2-01": 3,
     "S2-08": 2,
     "S2-05": 1,
-    "S2-06": 2,
+    "S2-06": 3,
     "X1": 1,
     "S2-09": 2,
     "S2-14": 1,
-    "S2-02": 2,
-    "S2-11": 1
+    "S2-02": 3,
+    "S2-11": 2,
+    "S2-10": 1
   },
   "days_done": [
     1,
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "progress": {
     "1": 9,
     "2": 10,
     "3": 19,
     "4": 18,
-    "5": 12
+    "5": 12,
+    "6": 14
   }
 }
