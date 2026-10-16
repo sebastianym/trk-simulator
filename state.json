@@ -126,6 +126,24 @@
       "number": 9,
       "branch": "feature/TRK-25-diego",
       "title": "TRK-25: Logs estructurados en el servicio de pagos"
+    },
+    "S2-15": {
+      "repo": "backend",
+      "number": 10,
+      "branch": "feature/TRK-30-ana",
+      "title": "TRK-30: Pruebas de carga del API de pedidos"
+    },
+    "X2": {
+      "repo": "frontend",
+      "number": 4,
+      "branch": "feature/TRK-32-camila",
+      "title": "TRK-32: Banner promocional de temporada (solicitud comercial)"
+    },
+    "S2-11": {
+      "repo": "frontend",
+      "number": 5,
+      "branch": "feature/TRK-26-elena",
+      "title": "TRK-26: Historial de pedidos del cliente"
     }
   },
   "commit_counts": {
@@ -139,10 +157,13 @@
     "S2-09": 2,
     "S2-14": 1,
     "S2-02": 3,
-    "S2-11": 3,
+    "S2-11": 4,
     "S2-10": 1,
-    "S2-15": 1,
-    "X2": 1
+    "S2-15": 2,
+    "X2": 1,
+    "S2-03": 1,
+    "S2-07": 1,
+    "S2-12": 1
   },
   "days_done": [
     1,
@@ -151,7 +172,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "progress": {
     "1": 9,
@@ -160,6 +182,7 @@
     "4": 18,
     "5": 12,
     "6": 14,
-    "7": 17
+    "7": 17,
+    "8": 12
   }
 }
