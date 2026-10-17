@@ -144,6 +144,12 @@
       "number": 5,
       "branch": "feature/TRK-26-elena",
       "title": "TRK-26: Historial de pedidos del cliente"
+    },
+    "S2-07": {
+      "repo": "frontend",
+      "number": 6,
+      "branch": "feature/TRK-22-camila",
+      "title": "TRK-22: Página de confirmación de pedido"
     }
   },
   "commit_counts": {
@@ -155,9 +161,9 @@
     "S2-06": 3,
     "X1": 1,
     "S2-09": 2,
-    "S2-14": 1,
+    "S2-14": 2,
     "S2-02": 3,
-    "S2-11": 4,
+    "S2-11": 5,
     "S2-10": 1,
     "S2-15": 2,
     "X2": 1,
@@ -173,7 +179,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "progress": {
     "1": 9,
@@ -183,6 +190,7 @@
     "5": 12,
     "6": 14,
     "7": 17,
-    "8": 12
+    "8": 12,
+    "9": 10
   }
 }
